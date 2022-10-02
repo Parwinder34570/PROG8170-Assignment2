@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace RectangleProject
 {
-    internal class Rectangle
+    public class Rectangle
     {
 
         private int width;
         private int length;
 
-        Rectangle()
+        public Rectangle()
         {
             this.width = 1;
             this.length = 1;
         }
 
-        Rectangle(int width, int length)
+        public Rectangle(int width, int length)
         {
             this.width = width;
             this.length = length;
@@ -45,7 +45,7 @@ namespace RectangleProject
         }
         public int GetPerimeter()
         {
-            return 2 * GetCurrentWidth() + 2 * GetCurrentLength();
+            return (2 * GetCurrentWidth()) + (2 * GetCurrentLength());
         }
         public int GetArea()
         {

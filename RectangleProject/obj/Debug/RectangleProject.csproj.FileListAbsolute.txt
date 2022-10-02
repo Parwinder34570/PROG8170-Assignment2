@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\Assignment2\RectangleProject\bin\Debug\RectangleProject.exe.config
+C:\Users\DELL\source\repos\Assignment2\RectangleProject\bin\Debug\RectangleProject.exe
+C:\Users\DELL\source\repos\Assignment2\RectangleProject\bin\Debug\RectangleProject.pdb
+C:\Users\DELL\source\repos\Assignment2\RectangleProject\obj\Debug\RectangleProject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Assignment2\RectangleProject\obj\Debug\RectangleProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Assignment2\RectangleProject\obj\Debug\RectangleProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Assignment2\RectangleProject\obj\Debug\RectangleProject.exe
+C:\Users\DELL\source\repos\Assignment2\RectangleProject\obj\Debug\RectangleProject.pdb
